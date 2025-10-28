@@ -3,4 +3,4 @@ function dev(a ,b) {
   return sum;
 }
 
-console.log(dev(2, 4))
+console.log(dev(2, 4))   
